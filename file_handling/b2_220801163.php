@@ -23,6 +23,16 @@
 		
 		
 	*/
+      /* Deleteng file 
+if(unlink("Hello.txt")){
+	echo "file deleted.";
+}else{
+	echo "unable to delete file.";
+}*/
+
+
+
+
 
     //read write together
 	
